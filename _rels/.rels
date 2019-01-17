@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/VideoLAN.LibVLC.Windows.nuspec" Id="R5e3a0845df9542de" />
+  <Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/d0df1a1ad7ce4be6b7fef554b50ee9b1.psmdcp" Id="R9032ea72456b4e3b" />
+</Relationships>
